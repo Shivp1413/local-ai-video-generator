@@ -2,6 +2,17 @@
 
 Generate creative videos using artificial intelligence right from your local machine! This Streamlit application leverages the CogVideoX-5b model to transform text prompts into engaging video sequences.
 
+<table>
+  <tr>
+    <td><b>Panda Jumping on Moon</b></td>
+    <td><b>Cars racing on Race-track </b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/jumping_panda.gif" width="400"/></td>
+    <td><img src="assets/3car_racing.gif" width="400"/></td>
+  </tr>
+</table>
+
 ## 🌟 Features
 
 - Text-to-video generation using CogVideoX-5b model
