@@ -34,7 +34,7 @@ Generate creative videos using artificial intelligence right from your local mac
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/local-ai-video-generator.git
+   git clone https://github.com/Shivp1413/local-ai-video-generator.git
    cd local-ai-video-generator
    ```
 
